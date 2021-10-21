@@ -18,7 +18,7 @@
 <br>
   
 - 🔭 Estou me aperfeiçoando para futuramente ter um emprego
-- 🌱 I’Aprendendo JavaScript (posteriormente TypeScript) e Photoshop
+- 🌱 Aprendendo JavaScript (posteriormente TypeScript) e Photoshop
 - 💬 Meu email principal, e de contato, é o guilhermemspiandorin@gmail.com
 - 😄 Ele/Dele
   
