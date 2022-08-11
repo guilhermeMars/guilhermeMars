@@ -1,5 +1,5 @@
 ## Olá, bem vindo ao meu perfil!
-### Meu nome é Guilherme Martins, atualmente especializado em front-end
+### Meu nome é Guilherme Martins, atualmente especializado em front-end Next.js
 
 <div align="center">
   <a href="https://github.com/guilhermeMars">
